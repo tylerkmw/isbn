@@ -1,5 +1,15 @@
-<?php
+<!DOCTYPE html>
+<html>
+<head>
+<nav>
+	<a href="cruncher/index.php">Accounting Number Cruncher</a>
+	<a href="isbnsystem/books-upload.php">ISBN System</a>
 
-header("Location: books-upload.php");
+</nav>
+	
 
-?>
+</head>
+<body>
+</body>
+
+</html>
