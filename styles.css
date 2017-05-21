@@ -1,0 +1,15 @@
+nav {
+	margin: 20px 0px;
+}
+
+nav a {
+	margin-right: 10px;
+}
+
+a:visited {
+	color: #0000EE;
+}
+
+.section {
+	margin: 30px 0px;
+}
